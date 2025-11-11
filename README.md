@@ -1,4 +1,4 @@
-# Research-Methodology<br>
+# Research_Methodology_ShortPaper<br>
 
 It's all about a grupe Short paper evaluation . Completed within 2 days by researching 4-5 recent journal papers about "Blockchain in Smart Contracts and Cybersecurity" related<br>
 
